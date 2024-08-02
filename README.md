@@ -97,6 +97,6 @@ Each folder contains multiple problems with specific objectives. Below is a deta
 
 1. Clone this repository to your local machine using:
     ```
-    git clone https://github.com/yourusername/MCA-3rdSemester-Lab.git
+    git clone https://github.com/azmisaud/MCA-LAB-3rd-Semester.git
     ```
 2. Navigate to the desired week's folder to explore the problems and their solutions.
